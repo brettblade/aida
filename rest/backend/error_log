@@ -1,0 +1,33 @@
+[12-Jan-2015 12:36:35 UTC] PHP Notice:  Undefined index: first_run_complete in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 12:39:15 UTC] PHP Notice:  Undefined index: first_run_complete in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 12:39:15 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 23
+[12-Jan-2015 12:39:15 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 12:39:15 UTC] PHP Notice:  Undefined index: first_run_complete in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 12:39:15 UTC] PHP Notice:  Undefined index: first_run_complete in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 12:39:16 UTC] PHP Notice:  Undefined index: first_run_complete in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 12:39:16 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 23
+[12-Jan-2015 12:39:16 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 12:39:16 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:11:40 UTC] PHP Notice:  Undefined index: first_run_complete in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 22:11:40 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 23
+[12-Jan-2015 22:11:40 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:11:40 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:01 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 23
+[12-Jan-2015 22:12:01 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:01 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:02 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 23
+[12-Jan-2015 22:12:02 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:02 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:11 UTC] PHP Notice:  Undefined index: first_run_complete in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 22:12:11 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 23
+[12-Jan-2015 22:12:11 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:11 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:49 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 23
+[12-Jan-2015 22:12:49 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:12:49 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 28
+[12-Jan-2015 22:14:09 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 22:14:09 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 12
+[12-Jan-2015 22:14:09 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 12
+[12-Jan-2015 23:01:30 UTC] PHP Notice:  Undefined index: model in /home/brettblade/public_html/aida/rest/backend/index.php on line 7
+[12-Jan-2015 23:01:30 UTC] PHP Notice:  Undefined index:  in /home/brettblade/public_html/aida/rest/backend/index.php on line 12
+[12-Jan-2015 23:01:30 UTC] PHP Notice:  Undefined index: id in /home/brettblade/public_html/aida/rest/backend/index.php on line 12
